@@ -1,0 +1,38 @@
+html{ 
+    background-color: skyblue
+    
+}
+body {
+    background-color: white;
+    width: 600px;
+    padding: 20px 50px;
+    margin: auto;
+}
+#mad-lib-title {
+    font-size: 90px;
+    color: skyblue;
+    font-family: 'Proza Libre', sans-serif;
+}
+#mad-lib-instructions{
+ font-family: 'Proza libre', sans-serif
+}
+#mad-lib-results{
+   font-family:  'Open Sans', sans-serif;
+}
+
+button {
+    background-color: skyblue;
+    color: white;
+    padding: 5px 15px
+}
+
+
+p {
+    font-family: 'Proza Libre', sans-serif;
+    border: 1px solid bisque
+}
+
+li
+{
+    padding: 5px
+}
